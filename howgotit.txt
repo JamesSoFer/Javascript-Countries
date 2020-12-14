@@ -1,0 +1,7 @@
+Project Info:
+
+Studied yesterday this links to get this project done:
+
+https://us02web.zoom.us/rec/play/Mh15TFBBsQD5BXN0uUuKd_5-vh3ZdILwtC8EKkYQNBFlVvIZmIFkfbHZ4Qt81Q78relLoxo7HF6q2PbI.72NkIH0N4qXQXylv?continueMode=true&_x_zm_rtaid=VGI2DuiCSeOq_Y67mQTT9Q.1607985285584.fb3c2537d7bad37939bf441cc615575d&_x_zm_rhtaid=216
+https://appdividend.com/2018/12/17/javascript-array-filter-example-tutorial/
+https://www.geeksforgeeks.org/javascript-array-filter-method/
